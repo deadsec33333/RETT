@@ -14,7 +14,7 @@
     font-family: "Schoolbell", Sans-serif;
     font-size: 24px;
     font-weight: 400;
-    background-color: #ff0000;
+    background-color: #37ffd7;
 }
 
 .elementor-kit-6 a {
@@ -64,8 +64,7 @@
     --widgets-spacing: 20px 20px;
 }
 
-{
-}
+
 
 h1.entry-title {
     display: var(--page-title-display);
